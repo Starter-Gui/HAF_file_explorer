@@ -1,0 +1,9 @@
+﻿Copyright (c) 2025 @Starter-Gui
+
+Permission is granted to use, modify, and distribute this software for any purpose, provided that:
+
+1. You do not misrepresent the origin of this software.
+2. You may not claim that you wrote the original software.
+3. Attribution must be given to the original author in any public distribution or presentation.
+
+This software is provided "as is", without warranty of any kind.
