@@ -5,5 +5,5 @@ The new features will include:
   - plugins
   - more settings
   - themes
-DISCLAIMER: the features above aren't 100% guaranteed, they may be cancelled/scrapped/removed
+- DISCLAIMER: the features above aren't 100% guaranteed, they may be cancelled/scrapped/removed
 NOTE: this software may have some bugs if you find any please contact me on my email: ✉️ justchip4@gmail.com
